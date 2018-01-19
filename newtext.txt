@@ -1,0 +1,32 @@
+// cas numero avec un dossier deja creer dans sur le pc //
+ 
+mkdir (creer un dossier s'il n yaps de projet a l'origine) 
+
+touch (pour creer un fichier ex: index.html text.txt etc )
+
+code . ( pour ouvrir visual code en ligne de commande on ouvrir le dossier sinon on ajoute le nom du fichier pour ouvrir le fichier ) 
+
+git init (initialiser le projet dans la racine du projet un fichier git s'affiche pour le voir on afficher les fichier cacher )
+
+git status (pour voir les fichier non ou pas encore initialiser)
+g
+git add (on ajoute le nom du fichier ou sinon git add all(pour tous les fichiers))
+
+git commit -m "nom du commit ou expliquer pourquoi ce commit"(pour commit tous les fichier faire un commit -a -m "explications")
+
+git log (pour voir les log des commits l heure et la date )
+
+ aller sur github creer un nouveaux repository sans cocher le readme puis valider 
+revenir sur la console puis:
+ 
+git remote add origin https://github.com/NomDeLUtisateurDuGitHub/nomDuNouveauRepository
+git push -u origin master
+
+
+
+Puis raffraichir le github et le tour et jouer
+
+cat nomDuFichier( pour voir le contenu du fichier sur console) 
+
+
+ 
